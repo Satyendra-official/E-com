@@ -3,12 +3,13 @@ import ProductPage from "./Product/Index"
 import "./style.css";
 
 
+
 function App() {
 
   return (
   <div>
     {/* <p>Hello</p> */}
-  <ProductPage/>    
+  <ProductPage/>
   </div>  
   )
 }

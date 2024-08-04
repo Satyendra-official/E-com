@@ -1,6 +1,8 @@
 
 import React from "react";
 
+
+// Rendering the Products in card 
 const OneProduct = (props) => {
   const { product } = props;
   return (
